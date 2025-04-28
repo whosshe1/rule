@@ -1,0 +1,25 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain": [
+         "xxxxxxxxxxxxx"
+            ]
+        },
+        {
+            "domain_suffix": [
+                "niceduck.lol"
+            ]
+        },
+        {
+            "domain_keyword": [
+            "xxxxxxxxxxxxx"
+            ]
+        },
+        {
+            "ip_cidr": [
+         "249.99.0.99"
+            ]
+        }
+    ]
+}
